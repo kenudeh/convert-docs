@@ -8,7 +8,7 @@ Welcome to the Convert.com.ng documentation site. This platform provides compreh
 - **User Guides**: Step-by-step instructions for using the Convert.com.ng platform.
 - **FAQs**: Frequently asked questions and troubleshooting tips.
 
-For more information, visit [Convert.com.ng](https://convert.com.ng).
+For more information, visit [Convert.com.ng](https://docs.convert.com.ng).
 
 ## Contributing
 
