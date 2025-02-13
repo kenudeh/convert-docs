@@ -1,0 +1,89 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Convert.com.ng Docs",
+  "colors": {
+    "primary": "#16A34A",
+    "light": "#07C983",
+    "dark": "#15803D"
+  },
+  "favicon": "/convert-favicon.svg",
+  "navigation": {
+    "tabs": [
+      {
+        "tab": "Guides",
+        "groups": [
+          {
+            "group": "Get Started",
+            "pages": [
+              "guides/introduction",
+              "guides/quickstart"
+            ]
+          },
+          {
+            "group": "Guides",
+            "pages": [
+              "guides/selling-airtime",
+              "guides/buying-airtime",
+              "guides/buying-data"
+            ]
+          },
+          {
+            "group": "Finance",
+            "pages": [
+              "guides/wallet",
+              "guides/banking",
+              "guides/service-charge"
+            ]
+          },
+          {
+            "group": "Support",
+            "pages": [
+              "guides/verification",
+              "guides/disputes"
+
+            ]
+          },
+          {
+            "group": "Extras",
+            "pages": [
+              "guides/faqs"
+            ]
+          }
+        ]
+      }
+    ],
+    "global": {
+      "anchors": [
+        {
+          "anchor": "Blog",
+          "href": "https://convert.com.ng/blog",
+          "icon": "newspaper"
+        }
+      ]
+    }
+  },
+  "logo": {
+    "light": "/logo/convert_logo.svg",
+    "dark": "/logo/file.svg"
+  },
+  "navbar": {
+    "links": [
+      {
+        "label": "Support",
+        "href": "mailto:hello@convert.com.ng"
+      }
+    ],
+    "primary": {
+      "type": "button",
+      "label": "Dashboard",
+      "href": "https://dashboard.convert.com.ng"
+    }
+  },
+  "footer": {
+    "socials": {
+      "x": "https://x.com/mintlify",
+      "facebook": "https://github.com/mintlify"
+    }
+  }
+}
