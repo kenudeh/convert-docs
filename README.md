@@ -1,32 +1,15 @@
-# Mintlify Starter Kit
+# Convert.com.ng Documentation
 
-Click on `Use this template` to copy the Mintlify starter kit. The starter kit contains examples including
+Welcome to the Convert.com.ng documentation site. This platform provides comprehensive guides and resources for users to exchange excess airtime for cash.
 
-- Guide pages
-- Navigation
-- Customizations
-- API Reference pages
-- Use of popular components
+## Features
 
-### Development
+- **Getting Started**: Learn how to start selling airtime and buying data or airtime.
+- **User Guides**: Step-by-step instructions for using the Convert.com.ng platform.
+- **FAQs**: Frequently asked questions and troubleshooting tips.
 
-Install the [Mintlify CLI](https://www.npmjs.com/package/mintlify) to preview the documentation changes locally. To install, use the following command
+For more information, visit [Convert.com.ng](https://convert.com.ng).
 
-```
-npm i -g mintlify
-```
+## Contributing
 
-Run the following command at the root of your documentation (where docs.json is)
-
-```
-mintlify dev
-```
-
-### Publishing Changes
-
-Install our Github App to auto propagate changes from your repo to your deployment. Changes will be deployed to production automatically after pushing to the default branch. Find the link to install on your dashboard. 
-
-#### Troubleshooting
-
-- Mintlify dev isn't running - Run `mintlify install` it'll re-install dependencies.
-- Page loads as a 404 - Make sure you are running in a folder with `docs.json`
+We welcome contributions from the community. Please see our [Contributing Guide](CONTRIBUTING.md) for more details on how to contribute.
