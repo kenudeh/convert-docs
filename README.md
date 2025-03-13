@@ -1,10 +1,10 @@
 # Convert.com.ng Documentation
 
-Welcome to the Convert.com.ng documentation site. This platform provides comprehensive guides and resources for users to exchange excess airtime for cash.
+Welcome to Convert.com.ng's documentation.
 
 ## Features
 
-- **Getting Started**: Learn how to start selling airtime and buying data or airtime.
+- **Getting Started**: Learn how to buy and sell airtime and data.
 - **User Guides**: Step-by-step instructions for using the Convert.com.ng platform.
 - **FAQs**: Frequently asked questions and troubleshooting tips.
 
