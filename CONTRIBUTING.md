@@ -1,6 +1,6 @@
 # Contributing to Convert.com.ng Documentation
 
-Thank you for considering contributing to the Convert.com.ng documentation site. Please, contact the team at convertnigeria@gmail.com to confirm whether contributions are currently accepted.
+Thank you for your interest in contributing to our documentation. Please get in touch with the team at convertnigeria@gmail.com to see if contributions are currently accepted.
 
 
 
